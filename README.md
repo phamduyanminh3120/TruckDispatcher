@@ -1,1 +1,2 @@
 # TruckDispatcher
+Truck Dispatcher is an application that allows the clients to track the trucks which are updated by its driver. The clients will assign the password, username, type of trucks and types of packages for the drivers. The drivers will update their arrival time for the clients periodically to ensure accurate and consistent package updates until the user-defined arrival time reaches zero, meaning the driver and their package has reached its destination.
